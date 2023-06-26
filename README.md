@@ -22,6 +22,6 @@ Walt Disney is probably one of the most famous story about failure. I always lik
 
 #### ABOUT ME
 
-![Navy me](
+![Navy me](air ops.jpg)
 
 My name is Sydney, my pronouns are She/Her. As much as I love all the cool and fun stuff I did while I was in the US Navy, I sadly had to leave and pursue one of my dream career which is working in the Healthcare field. My career in the healthcare field is amazing as I enjoy helping patients and just gaining medical knowledge daily. I decided to leave and enroll at Code Fellows to learn something else that I'm passionate about, which is computer and technology. The tech industry is evolving as a fast pace and I wanted to become a part of it.
