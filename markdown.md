@@ -25,7 +25,7 @@ You can create the largest heading by adding one *Octothorp* symbol and four *Oc
 ### How do you create a link with Markdown? ###
 You can achieve this by typing "[title](https://www.example.com)"
 
-###What are the three symbols you can use to create an unordered (bulleted) list with Markdown?###
+### What are the three symbols you can use to create an unordered (bulleted) list with Markdown? ###
 1. asterisk
 2. hyphen
 3. plus sign
