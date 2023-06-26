@@ -1,6 +1,12 @@
 # reading-notes
 Reading Notes Repository
 
+## Table of Contents
+1. **Lessons Learned**
+   [Lessons Learned](lessons-learned.md)
+2. **Markdown**
+   [Markdown](markdown.md)
+
 ## Growth Mindset 
 ![Fixed vs Growth Mindset](https://mylearningtools.org/wp-content/uploads/2021/02/Growth-Mindset-vs-Fixed-Mindset.png)
 
