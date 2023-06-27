@@ -8,6 +8,8 @@ Reading Notes Repository
    [Lessons Learned](lessons-learned.md)
 3. **Markdown**
    [Markdown](markdown.md)
+4. **Text Editor**
+   [Text Editor](text-editor.md)
 
 #### ABOUT ME
 
