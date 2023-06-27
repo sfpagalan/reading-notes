@@ -31,6 +31,7 @@ Reading Notes Repository
     5. [class-08](102/class-08.md)
     6. [class-09](102/class-09.md)
     7. [class-10](102/class-10.md)
+7. [Thoughts and Observations](thoughts-and-observations.md)
 
 #### ABOUT ME
 
