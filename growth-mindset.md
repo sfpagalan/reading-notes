@@ -16,3 +16,5 @@ Everyone is probably aware of this story about The Hare and The Tortoise. This s
 3. <blockquote> It's not how far you fall, but how high you bounce that counts.</blockquote> - Zig Zaglar
 ![Walt Disney](https://www.bradaronson.com/wp-content/uploads/2015/05/famous-failures-Walt-Disney.jpg)
 Walt Disney is probably one of the most famous story about failure. I always like to remind myself that back in the day nobody would want to hire Walt Disney as an artist and look at us now. The world is ever changing and Disney is one of the inspirational figure I like to read about.
+
+[Home](reading-notes.md)
