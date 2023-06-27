@@ -2,14 +2,10 @@
 Reading Notes Repository
 
 ## Table of Contents
-1. **Growth Mindset**
-   [Growth Mindset](growth-mindset.md)
-2. **Lessons Learned**
-   [Lessons Learned](lessons-learned.md)
-3. **Markdown**
-   [Markdown](markdown.md)
-4. **Text Editor**
-   [Text Editor](text-editor.md)
+1. [Growth Mindset](growth-mindset.md)
+2. [Lessons Learned](lessons-learned.md)
+3. [Markdown](markdown.md)
+4. [Text Editor](text-editor.md)
 
 #### ABOUT ME
 
