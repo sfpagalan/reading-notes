@@ -28,14 +28,14 @@ Can be downloaded and installed to computer. Some of the examples are:
 - **pwd** - Show working directory.
 - **ls** - Display the name of files and subdirectories in the directory.
 - **cd** - Home Directory.
-- mkdir** - Create a new folder.
+- **mkdir** - Create a new folder.
 - **touch** - Create a new file.
 
 #### Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
-1. cd projects - change directory to the file folder: projects. basically, this command opened up the folder called: projects.
-2. mkdir new-project - created a folder named new-project within the file folder projects.
-3. touch new-project/newfile.md - created a new file called newfile.md within the new folder new-project.
-4. cd .. - move up to the parent directory or went back to the beginning/home/start.
-5. ls projects/new-project - displayed the file within projects/new-project.
+1. **cd projects** - change directory to the file folder: projects. basically, this command opened up the folder called: projects.
+2. **mkdir new-project** - created a folder named new-project within the file folder projects.
+3. **touch new-project/newfile.md** - created a new file called newfile.md within the new folder new-project.
+4. **cd ..** - move up to the parent directory or went back to the beginning/home/start.
+5. **ls projects/new-project** - displayed the file within projects/new-project.
 
 [Home](README.md)
