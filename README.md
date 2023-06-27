@@ -2,11 +2,16 @@
 Reading Notes Repository
 
 ## Table of Contents
-1. [Growth Mindset](growth-mindset.md)
-2. [Lessons Learned](lessons-learned.md)
-3. [Markdown](markdown.md)
-4. [Text Editor](text-editor.md)
-5. 201
+1. 102
+    1. [class-01](102/class-01.md)
+    2. [class-02](102/class-02.md)
+    3. [class-03](102/class-03.md)
+    4. [class-04](102/class-04.md)
+    5. [class-05](102/class-05.md)
+    6. [class-06](102/class-06.md)
+    7. [class-07](102/class-07.md)
+    8. [class-08](102/class-08.md)
+2. 201
     1. [class-01](201/class-01.md)
     2. [class-02](201/class-02.md)
     3. [class-03](201/class-03.md)
@@ -22,16 +27,8 @@ Reading Notes Repository
     13. [class-13](201/class-13.md)
     14. [class-14](201/class-14.md)
     15. [class-15](201/class-15.md)
-6. 102
-    1. [class-03](102/class-03.md)
-    2. [class-04](102/class-04.md)
-    3. [class-05](102/class-05.md)
-    4. [class-06](102/class-06.md)
-    5. [class-07](102/class-07.md)
-    5. [class-08](102/class-08.md)
-    6. [class-09](102/class-09.md)
-    7. [class-10](102/class-10.md)
-7. [Thoughts and Observations](thoughts-and-observations.md)
+3. [Lessons Learned](lessons-learned.md)
+4. [Thoughts and Observations](thoughts-and-observations.md)
 
 #### ABOUT ME
 
