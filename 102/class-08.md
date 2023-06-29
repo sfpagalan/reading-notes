@@ -1,5 +1,14 @@
 # Read 08: Operators and Loops
 
+Looping Code
+- any code that runs more than once.
+
+### Of Loop
+![Of Loop](of-loop.png)
+
+### While Loop
+![While Loop](while-loop.png)
+
 ## Answer the following:
 
 1. What is an expression in JavaScript?
