@@ -1,4 +1,4 @@
-# Read 05: Cascading Style Sheets aka CSS
+# Read 06: Dynamic web pages with JavaScript
 
 JavaScript is a scripting language that makes the webpage interactable.
 
