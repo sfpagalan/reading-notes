@@ -27,8 +27,10 @@ Reading Notes Repository
     13. [class-13](201/class-13.md)
     14. [class-14](201/class-14.md)
     15. [class-15](201/class-15.md)
-3. [Lessons Learned](lessons-learned.md)
-4. [Thoughts and Observations](thoughts-and-observations.md)
+3. 301
+4. 401
+5. [Lessons Learned](lessons-learned.md)
+6. [Thoughts and Observations](thoughts-and-observations.md)
 
 #### ABOUT ME
 
