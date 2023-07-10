@@ -31,6 +31,7 @@ Reading Notes Repository
 4. 401
 5. [Lessons Learned](lessons-learned.md)
 6. [Thoughts and Observations](thoughts-and-observations.md)
+7. [Prompt Engineering](prompt-engineering.md)
 
 #### ABOUT ME
 
