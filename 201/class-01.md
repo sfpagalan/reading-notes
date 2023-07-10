@@ -77,11 +77,11 @@
 
 **1. Why should you use an < h1 > element over a < span > element to display a top level heading?**
 
--
+- to make any element look like a heading.
 
 **2. What are the benefits of using semantic tags in our HTML?**
 
-- 
+- gives the text it wraps around the role or meaning of a top level heading on a page.
 
 ## What is JavaScript? [Source](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
