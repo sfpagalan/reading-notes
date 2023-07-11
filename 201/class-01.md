@@ -13,7 +13,10 @@
 
 **1. Short poem describing how HTTP sends data between computers.**
 
--
+- A request is made, a response returns,
+In a language both computers can learn,
+The data is sent, without fear or favor,
+From one machine to another, no matter the savor.
 
 **2. Describe how HTML, CSS, and JS files are "parsed" in the browser.**
 
