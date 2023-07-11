@@ -83,9 +83,9 @@
 - == loose equality
 - Object.is()
 
-**4. What is the difference between the logical operator && and [||]?**
+**4. What is the difference between the logical operator && and ||?**
 
-- && if applied to boolean values only returns true when both operands are true, while [||] only returns false when both operands are false.
+- && if applied to boolean values only returns true when both operands are true, while || only returns false when both operands are false.
 
 ## Things I want to know more about
 
