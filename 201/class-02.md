@@ -29,33 +29,24 @@
 - 3 ways to apply CSS to HTML:
     1. External stylesheets - a separate file with a .css extention.
     2. Internal stylesheets - is inside an HTML document.
-    3. Inline styles - CSS declarations that affect a single HTML element contained within a *style* attribute. ex.
-        < body >
-        < h1 style="color: blue;background-color: yellow;border: 1px solid black;">
-        Hello World!
-        </ h1 >
-        < p style="color:red;">This is my first CSS example</ p >
-        </ body >
+    3. Inline styles - CSS declarations that affect a single HTML element contained within a *style* attribute.
 
 **2. Why should we avoid using inline styles?**
 
 - avoid using inline style when possible due to inefficient implementation of CSS.
 
 **3. Review the block of code below and answer the following questions:**
-   h2 {
-     color: black;
-     padding: 5px;
-   }
-**1. What is representing the selector?**
+![codeimg](css3.png)
+
+1. What is representing the selector?
 
 - h2
 
-**2. Which components are the CSS declarations?**
+2. Which components are the CSS declarations?
 
-- color: black;
-  padding: 5px;
+- color: black; padding: 5px;
 
-**3. Which components are considered properties?**
+3. Which components are considered properties?**
 
 - color and padding
 
@@ -92,10 +83,10 @@
 - == loose equality
 - Object.is()
 
-**4. What is the difference between the logical operator && and ||?**
+**4. What is the difference between the logical operator && and [||]?**
 
-- && if applied to boolean values only returns true when both operands are true, while || only returns false when both operands are false.
+- && if applied to boolean values only returns true when both operands are true, while [||] only returns false when both operands are false.
 
 ## Things I want to know more about
 
-There's definately a lot I want to review and read about JavaScript. 
+There's definately a lot I want to review and read about JavaScript.
