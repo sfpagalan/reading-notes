@@ -62,3 +62,7 @@
 6. Give an example of when a Loop is useful in JavaScript.
 
 - repetitive task, multiple calculations.
+
+## Things I want to know more about
+
+- need more explanations for this question: 2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
