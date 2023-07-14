@@ -49,6 +49,7 @@
 1. Describe the difference between a function declaration and a function invocation.
 
 - function invocation needs a variable assigned to be able to run while declaration is when you have a name declared to the function to be able to run.
+![Function](function.png)
 
 2. What is the difference between a parameter and an argument?
 
