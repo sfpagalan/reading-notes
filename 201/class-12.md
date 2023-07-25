@@ -1,5 +1,7 @@
 # Chart.js, Canvas
 
+Understanding Chart.js in web development is essential as it empowers developers to present data dynamically and interactively. Using charts over tables enhances user experience, making information more easily comprehensible. This aligns with the module's goal of creating engaging web applications with superior data representation.
+
 ## JavaScript Canvas
 
 [Source](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
