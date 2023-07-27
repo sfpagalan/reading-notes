@@ -26,7 +26,8 @@ Reading Notes Repository
     12. [class-12](201/class-12.md)
     13. [class-13](201/class-13.md)
     14. [class-14](201/class-14.md)
-    15. [class-15](201/class-15.md)
+    15. [psychological-safety](201/class-14-psychological-safety.md)
+    16. [class-15](201/class-15.md)
 3. 301
 4. 401
 5. [Lessons Learned](lessons-learned.md)
