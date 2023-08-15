@@ -1,4 +1,4 @@
-# State and Props
+# Read 02: State and Props
 
 ## React lifecycle
 
@@ -46,3 +46,28 @@
 ## Things I like to know more about
 
 understanding the difference between props and state in React.
+
+### Notes
+
+1. How to grab the first letter of the first name and last name to grab the initials.
+
+![How to grab the first letter of the first name and last name to grab the initials](initials.png)
+
+let initials = name.map((name) => {
+    let firstAndLast = name.split('');
+    return `${firstAndLast[0][0]}${firstAndLast[1][0]}`;
+});
+
+2. Half a number arrays. Image is one of the examples the class gave.
+
+![returning half of the given numbers](half-numbers.png)
+
+let numbers = [10, 20, 30];
+
+let half = numbers.map((number) => {
+    return number / 2;
+});
+
+console.log(half); // Output: [5, 10, 15]
+
+
