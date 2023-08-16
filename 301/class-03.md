@@ -82,3 +82,5 @@ console.log(combinedObj);
 ## Things I want to know more about
 
 React Hooks. Component communication.
+
+[Home](README.md)

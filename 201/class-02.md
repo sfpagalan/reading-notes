@@ -90,3 +90,5 @@
 ## Things I want to know more about
 
 There's definately a lot I want to review and read about JavaScript.
+
+[Home](README.md)

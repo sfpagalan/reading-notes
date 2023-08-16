@@ -41,3 +41,5 @@
 
 - Event bubbling is when an event happends on a nested element which will trigger the most innermost element first the to the parent elements.
 - Event capturing works backwards with the events being triggered starting with the outermost element and then to the innermost element.
+
+[Home](README.md)

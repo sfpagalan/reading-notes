@@ -66,3 +66,5 @@
 ## Things I want to know more about
 
 - need more explanations for this question: 2. Is the people array a valid JavaScript array? If so, how can I access the values stored? If not, why?
+
+[Home](README.md)

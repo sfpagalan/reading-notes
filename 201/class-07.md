@@ -44,3 +44,5 @@
 
 - In my case, the prototype can be compared to a foundational training program that all medical personnel go through. This program covers the shared knowledge and skill required for patient care, such as basic medical procedures, communication, techniques, and ethical guidelines.
 - Inheritance represents how each role inherits the foundational knowledge and skills from the training program while also possessing their own specialized expertise and responsibilities.
+
+[Home](README.md)

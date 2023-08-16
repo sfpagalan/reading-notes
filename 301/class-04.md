@@ -35,3 +35,5 @@
 ## Things I want to know more about
 
 Exploring the ternary operator and its applications.
+
+[Home](README.md)

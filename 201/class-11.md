@@ -58,3 +58,5 @@
 ## Things I want to know more about
 
 - definately want to incorporate adding video or audio. reminds me of early 2000s myspace or facebook.
+
+[Home](README.md)
