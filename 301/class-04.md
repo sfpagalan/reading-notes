@@ -36,4 +36,33 @@
 
 Exploring the ternary operator and its applications.
 
+## CLASS NOTES 8/17/23
+
+.forEach() - for loop with a callback,
+.map() - for loop with a callback, that also returns a totally array
+.filter() - use a callback to remove items -> return true to keep / return false to remove.
+.sort(a,b) - use a comparator callback.
+
+### Sorting
+
+- .sort(a,b) - use a comparator callback.
+    the callback should return:
+        numbers less than 0 (a comes before b)
+        0 (they are equal - no movement necessary)
+        numbers greater than 0. (b comes before a)
+
+For example:
+    4, 10, 3, 50, 26, 42 -> sort this number to this -> 50, 42, 26, 10, 4, 3
+    let numbers = [4, 10, 3, 50, 26, 42];
+    numbers.sort((a, b) => {
+        if (a, b) {
+            return 1;
+        } else if (a > b) {
+            return -1;
+        } else {
+            return 0
+        }
+    });
+
+
 [Home](README.md)
