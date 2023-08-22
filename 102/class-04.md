@@ -13,4 +13,4 @@
 4. What is a semantic element?
     -   Gives meaning to a code.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

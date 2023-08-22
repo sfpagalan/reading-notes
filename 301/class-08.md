@@ -48,4 +48,4 @@
 
 - A successful DELETE request returns a status code of 200 (OK) or 204 (No Content).
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

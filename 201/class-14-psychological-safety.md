@@ -16,4 +16,4 @@
 
 - creates an environment where individuals can thrive, leading to improved performance, increased innovation, and stronger organizational culture.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

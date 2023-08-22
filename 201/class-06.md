@@ -41,4 +41,4 @@
 
 - I would like to learn more about DOM and the different uses of this.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

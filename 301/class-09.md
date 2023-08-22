@@ -45,4 +45,4 @@
 
 - use the "module.exports" property.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

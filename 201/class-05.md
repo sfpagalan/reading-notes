@@ -55,4 +55,4 @@
 
 I want to learn how to properly style images and send them as a background for either header, footer, or body.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

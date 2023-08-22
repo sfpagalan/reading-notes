@@ -62,4 +62,4 @@
 
 - The concept and benefits of pair programming: The article explains how pair programming can improve code quality, efficiency, and collaboration in software development teams.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

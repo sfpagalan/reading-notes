@@ -19,4 +19,4 @@
 
 Learning about best practices for securing web applications, including how to handle sensitive data.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

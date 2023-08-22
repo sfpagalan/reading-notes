@@ -47,4 +47,4 @@ Walt Disney is probably one of the most famous story about failure. I always lik
     2. hyphen
     3. plus sign
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

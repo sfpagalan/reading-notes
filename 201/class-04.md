@@ -69,4 +69,4 @@ ex. (a,b) is the parameter and after finding out what the a and b is through a p
 
 - As I previously mentioned in my prior class reading notes, there's so much to learn and feeling like as soon as I learn something, i'll find out that there's more to the topic the next day. As of right now, I just want to focus on learning the current topic and study more after to prevent myself from being side tracked or lose focus.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

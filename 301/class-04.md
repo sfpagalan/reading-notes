@@ -65,4 +65,4 @@ For example:
     });
 
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

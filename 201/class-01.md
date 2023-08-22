@@ -101,4 +101,4 @@ From one machine to another, no matter the savor.
 
 - More ways to utilize elements and attributes. There some more attributes I saw some examples the I'm curious about and would like to use.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

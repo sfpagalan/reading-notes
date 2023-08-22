@@ -27,4 +27,4 @@ CSS is a styling language and has different syntax than the HTML.
         color: red
     }
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

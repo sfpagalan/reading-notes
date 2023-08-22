@@ -25,4 +25,4 @@
 
 - Using a parenthesis to call a function you are invoking to execute the code.
 
-
+[Home](https://sfpagalan.github.io/reading-notes/)

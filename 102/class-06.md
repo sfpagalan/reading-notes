@@ -39,4 +39,4 @@ Boolens: false
 4. What is information received from the user called?
     - an input/output.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

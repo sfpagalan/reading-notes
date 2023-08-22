@@ -43,4 +43,4 @@
 - Map: It transforms each element in a list using a given function and returns a new list with the transformed values.
 - Reduce: It iterates over a list, applying a function that accumulates values, and returns a single value as the result of the accumulation.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

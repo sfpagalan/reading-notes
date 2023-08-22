@@ -46,4 +46,4 @@
 5. What is the command to send your changed files to GitHub?
     - git push origin main
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

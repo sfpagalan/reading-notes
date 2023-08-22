@@ -48,4 +48,4 @@ Understanding Chart.js in web development is essential as it empowers developers
 
 - incorporating charts in my future projects and see how i can improve the webpage visually.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

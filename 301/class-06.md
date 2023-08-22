@@ -51,4 +51,4 @@
 - REST (Representational State Transfer) architecture
 - Learn about web services and APIs (Application Programming Interfaces)
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

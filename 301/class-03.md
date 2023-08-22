@@ -83,4 +83,4 @@ console.log(combinedObj);
 
 React Hooks. Component communication.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

@@ -30,4 +30,4 @@
 
 - This promotes efficient and effective web develpment practices.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

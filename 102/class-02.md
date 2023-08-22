@@ -41,4 +41,4 @@ Can be downloaded and installed to computer. Some of the examples are:
     - *cd ..: move up to the parent directory or went back to the beginning/home/start.
     - ls projects/new-project: displayed the file within projects/new-project.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)

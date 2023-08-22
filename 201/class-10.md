@@ -39,4 +39,4 @@
 
 - I used a debugger before to figure out what was wrong in my javascript. this is a tool that i keep forgetting to take advantage of and would end up spending so much time wasted looking through my javascript. definately want to know more about the debugging tools to make my life easy.
 
-[Home](README.md)
+[Home](https://sfpagalan.github.io/reading-notes/)
