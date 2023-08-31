@@ -43,7 +43,8 @@ Reading Notes Repository
     12. [class-12](301/class-12.md)
     13. [class-13](301/class-13.md)
     14. [class-14](301/class-14.md)
-    15. [class-15](301/class-15.md)
+    15. [Diversity & Inclusion in the Tech Industry](301/class-14-diversity-equity-inclusion-and-belonging.md)
+    16. [class-15](301/class-15.md)
 4. 401
 5. [Lessons Learned](lessons-learned.md)
 6. [Thoughts and Observations](thoughts-and-observations.md)
