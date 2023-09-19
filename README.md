@@ -63,6 +63,7 @@ Reading Notes Repository
     15. [class-15](401/class-15.md)
     16. [SQL Bolt](401/SQL-Bolt.md)
     17. [Growth Mindset](401/Growth-Mindset.md)
+    18. [Engineering Readings](401/EngineeringReadings.md)
 5. [Lessons Learned](lessons-learned.md)
 6. [Thoughts and Observations](thoughts-and-observations.md)
 7. [Prompt Engineering](prompt-engineering.md)
