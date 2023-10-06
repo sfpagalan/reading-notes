@@ -31,7 +31,9 @@
 
 3. Explain a “Compute Cycle” to a non-technical friend.
 
-- Think of a compute cycle like a ​chef preparing a dish in a kitchen. The chef follows a set of instructions (recipe) to chop, mix, and cook various ingredients (data manipulations) in order to create a delicious dish (completed task). Each step the chef takes represents a compute cycle, where they perform a specific action. The more compute cycles required, the more time and effort the chef needs to complete the dish. Similarly, a computer performs compute cycles to process data and accomplish tasks, with the complexity and quantity of instructions determining the computational power and processing time needed.
+- In the world of `One Piece`, think of a compute cycle as a battle sequence in which the Straw Hat Pirates are facing off against the `Shichubukai`. Each move/attack they make, whether it's `Zoro's Oni Giri`, `Sanji's Concassé shot`, or `Luffy's Gomu Gomu no Gatling` (which is like a computer performs a series of actions to process data, Luffy executes a series of rapid and repetitive punches as part of his special attack.), is a compute cycle.
+
+- Just like the Sanji follows a recipe to create a dish, the Straw Hat Pirates follow their own set of instructions, strategies, and techniques (similar to a computer program) to defeat their opponent and achieve victory. The more complex and intense the battle, the more compute cycles (moves and actions) are required.
 
 ## Elastic Beanstalk
 
