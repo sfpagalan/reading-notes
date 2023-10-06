@@ -31,9 +31,9 @@
 
 3. Explain a “Compute Cycle” to a non-technical friend.
 
-- In the world of `One Piece`, think of a compute cycle as a battle sequence in which the Straw Hat Pirates are facing off against the `Shichubukai`. Each move/attack they make, whether it's `Zoro's Oni Giri`, `Sanji's Concassé shot`, or `Luffy's Gomu Gomu no Gatling` (which is like a computer performs a series of actions to process data, Luffy executes a series of rapid and repetitive punches as part of his special attack.), is a compute cycle.
+- In the world of `One Piece`, think of a compute cycle as a battle sequence in which the Straw Hat Pirates are facing off against the `Shichubukai`. Each move/attack they make, whether it's `Zoro's Oni Giri`, `Sanji's Concassé shot`, or `Luffy's Gomu Gomu no Gatling` (which is like how computer performs a series of actions to process data, Luffy executes a series of rapid and repetitive punches as part of his special attack.), is a compute cycle.
 
-- Just like the Sanji follows a recipe to create a dish, the Straw Hat Pirates follow their own set of instructions, strategies, and techniques (similar to a computer program) to defeat their opponent and achieve victory. The more complex and intense the battle, the more compute cycles (moves and actions) are required.
+- Just like how Sanji follows a recipe to create a dish, the Straw Hat Pirates follow their own set of instructions, strategies, and techniques (similar to a computer program) to defeat their opponent and achieve victory. The more complex and intense the battle, the more compute cycles (moves and actions) are required.
 
 ## Elastic Beanstalk
 
