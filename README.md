@@ -69,8 +69,11 @@ Reading Notes Repository
     21. [Growth Mindset](401/Growth-Mindset.md)
     22. [Engineering Readings](401/EngineeringReadings.md)
     23. [Data Structures and ALgorithms](401/DSA.md)
+    24.
+    25.
     26. [class-26](401/class-26.md)
     27. [class-27](401/class-27.md)
+    28. [class-28](401/class-28.md)
 5. [Lessons Learned](lessons-learned.md)
 6. [Thoughts and Observations](thoughts-and-observations.md)
 7. [Prompt Engineering](prompt-engineering.md)
