@@ -80,7 +80,7 @@ Reading Notes Repository
     32. [class-32](401/class-32.md)
     33. [class-33](401/class-33.md)
     34. [class-34](401/class-34.md)
-    35. [class-35](401/class-35.md)
+    35. [Graphs](401/Graphs.md)
 5. [Lessons Learned](lessons-learned.md)
 6. [Thoughts and Observations](thoughts-and-observations.md)
 7. [Prompt Engineering](prompt-engineering.md)
