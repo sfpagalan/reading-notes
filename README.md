@@ -86,6 +86,7 @@ Reading Notes Repository
     38. [class-38](401/class-38.md)
     39. [class-39](401/class-39.md)
     40. [class-40](401/class-40.md)
+    41. [class-41](401/class-41.md)
 5. [Lessons Learned](lessons-learned.md)
 6. [Thoughts and Observations](thoughts-and-observations.md)
 7. [Prompt Engineering](prompt-engineering.md)
