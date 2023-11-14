@@ -16,6 +16,4 @@
 - Leaders of such systems have the added responsibility to be good stewards and establish fair system access policies.
 - They should also monitor the level of integration and continually assess the ethical responsibilities associated with it as society's use of the system evolves.
 
-## Things I want to know more about
-
 [Home](https://sfpagalan.github.io/reading-notes/)
